@@ -56,7 +56,7 @@
     </div>
 
     <div class="card">
-      <h1 class="title">Selamat datang di <span style="color:var(--accent)">Web2</span></h1>
+      <h1 class="title">arta tampan dan rupawan <span style="color:var(--accent)">Web2</span></h1>
       <p class="lead">Desain clean dengan aksen hangat. Halaman ini dideploy otomatis via GitHub Actions ke Nginx (port 3000).</p>
       <a class="cta" href="#">Mulai</a>
       <a class="ghost" href="#">Panduan</a>
