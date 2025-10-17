@@ -51,12 +51,12 @@
 <body>
   <div class="shell">
     <div class="nav">
-      <div class="brand">Web2 • Port 3000</div>
+      <div class="brand">Web2 • Port 3000 Habibi Januarta</div>
       <div class="pill">Nginx • PHP • CI/CD</div>
     </div>
 
     <div class="card">
-      <h1 class="title">pahri aneh <span style="color:var(--accent)">Web2</span></h1>
+      <h1 class="title">Selamat datang di <span style="color:var(--accent)">Web ke-2</span></h1>
       <p class="lead">Desain clean dengan aksen hangat. Halaman ini dideploy otomatis via GitHub Actions ke Nginx (port 3000).</p>
       <a class="cta" href="#">Mulai</a>
       <a class="ghost" href="#">Panduan</a>
